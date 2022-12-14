@@ -1,0 +1,12 @@
+---
+description: random public git repo for cmd testing
+build_destination: ~/final_build
+repos:
+  corvus_build:
+    version: master
+    url: https://github.com/fmtlib/fmt.git
+  example:
+    version: master
+    url: https://github.com/taydiobar/testRepo.git
+... 
+ 
