@@ -1,6 +1,6 @@
 ---
 description: random public git repo for cmd testing
-build_destination: /home/taylia/Documents/Coruvs/
+build_destination: /home/taylia/Documents/Corvus/
 repos:
   corvus_build:
     version: master
